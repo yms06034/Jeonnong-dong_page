@@ -142,6 +142,8 @@ window.addEventListener('click', function(event) {
 });
 
 
+
+
 // MODAL ON CLICK OF ADD POPUP
 // var openPModal1 = document.getElementById('openModalBtn1');
 // var openPModal2 = document.getElementById('openModalBtn2');
